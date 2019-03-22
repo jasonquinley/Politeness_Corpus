@@ -19,7 +19,7 @@ I had trouble getting this to work at first. I hope you profit from my initial f
 
 The original classifier prints two probabilities for every sentence as follows: 
 
-{"Could you please play some Sigur Ros?" : $\[.7, .3\]$}
+\{"Could you please play some Sigur Ros?" : $\[.7, .3\]$\}
 
 I'm not great with messy outputs, I've rewritten some of their classifier's code to make the output a little prettier. Hope you like it! 
 
