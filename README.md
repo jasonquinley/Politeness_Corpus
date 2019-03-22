@@ -23,6 +23,8 @@ The original classifier prints two probabilities for every sentence as follows:
 
 I'm not great with messy outputs, I've rewritten some of their classifier's code to make the output a little prettier. Hope you like it! 
 
+\{"Could you please play some Sigur Ros?" : .7 \}
+
 ### De-bugging and Data Cleaning Scripts
 
 
