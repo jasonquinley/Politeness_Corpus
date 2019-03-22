@@ -11,7 +11,7 @@ Many thanks to the original team and to Ben for their work here!
 This work emerged from my exploration of data on politeness to fit in with dissertation on game-theoretic modeling of requests. 
 
 ## How-To
-I had trouble getting this to work at first. I hope you profit from my initial failures. 
+I had trouble getting this to work at first. I hope you profit from my initial failures. I'll update this more as I go, with instructions for dummies like myself! 
 
 ## Contents
 
