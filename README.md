@@ -7,6 +7,8 @@ https://github.com/sudhof/politeness/tree/python3
 
 Many thanks to the original team and to Ben for their work here! 
 
+@MeyersBS
+
 ## Background
 This work emerged from my exploration of data on politeness to fit in with dissertation on game-theoretic modeling of requests. 
 
