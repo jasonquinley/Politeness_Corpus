@@ -136,7 +136,7 @@ def get_parses(sent, parses=None):
             sys.stderr.write('  Sentence: {}\n'.format(sent[:50]))
             extype, exvalue, extrace = sys.exc_info()
             traceback.print_exception(extype, exvalue, extrace)
-            parse = {'deps': 'X', 'sent': 'X'}
+            parse = {'deps': [{'dep': 'ROOT', 'governor': 0, 'governorGloss': 'ROOT', 'dependent': 1, 'dependentGloss': '<ERROR>'}], 'sent': '<ERROR>'}
             return parse
 
         return parse
